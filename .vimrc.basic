@@ -1,0 +1,3 @@
+set nocompatible   " Disable vi-compatibility
+set encoding=utf-8 " Necessary to show unicode glyphs
+set fillchars+=stl:\ ,stlnc:\ 
